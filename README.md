@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+# curso-manejo-estado-1
+Código de seguridad proyecto react
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# curso-manejo-estado-1
-Código de seguridad proyecto react
->>>>>>> 021c104717560db4d3cd6a7fa6533b03e93045bb
