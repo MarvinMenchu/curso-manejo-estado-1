@@ -6,6 +6,7 @@ function UseReducer({ name }) {
 
     const [state, dispatch] = React.useReducer(reducer, initialState)
 
+    //ACTION CREATORS
     const onConfirm = () => dispatch({ type: actionTypes.confirm })
 
     const onError = () => {
@@ -160,6 +161,8 @@ const initialState = {
     confirmed: false
 }
 
+
+// ACTIONS TYPES
 const actionTypes = {
     error: "ERROR",
     write: "WRITE",
