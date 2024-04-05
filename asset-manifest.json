@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/curso-manejo-estado-1/static/css/main.f855e6bc.css",
+    "main.js": "/curso-manejo-estado-1/static/js/main.12f13183.js",
+    "index.html": "/curso-manejo-estado-1/index.html",
+    "main.f855e6bc.css.map": "/curso-manejo-estado-1/static/css/main.f855e6bc.css.map",
+    "main.12f13183.js.map": "/curso-manejo-estado-1/static/js/main.12f13183.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.12f13183.js"
+  ]
+}
